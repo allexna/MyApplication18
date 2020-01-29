@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MyApplication18</string>
+    <string name="text">Приветики!</string>
+    <string name="description">picture</string>
+    <string name="menu">menu</string>
+    <string name="submenu">Подменю</string>
+    <string name="menu1">POPup menu item 1</string>
+    <string name="menu2">POPup menu item 2</string>
+    <string name="menu3">POPup menu item 3</string>
+    <string name="menu4">POPup menu item 4</string>
+    <string name="menu5">POPup menu item 5</string>
+    <string name="menu6">POPup menu item 6</string>
+</resources>
