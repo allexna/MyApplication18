@@ -22,20 +22,19 @@
         android:layout_width="89dp"
         android:layout_height="74dp"
         android:contentDescription="@string/description"
-        android:onClick="onClick"
         app:layout_constraintBottom_toTopOf="@+id/textView"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:srcCompat="@drawable/pic"
+        tools:src="@drawable/trissmerigold12"
         tools:srcCompat="@drawable/trissmerigold12" />
 
     <Button
         android:id="@+id/button"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:onClick="onClick"
         android:text="@string/menu"
         app:layout_constraintBottom_toTopOf="@+id/textView"
         app:layout_constraintEnd_toEndOf="parent"
